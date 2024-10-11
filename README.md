@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raphael SALAVERRIA
 ==========================================================================================================================================
 
-Web Developer
+Web Developer, 21yo
 -------------
 
-21yo, Currently in my 5th year of computer sciences at Epitech, Paris.
+Currently in my 5th year of computer sciences at Epitech, Paris.
 
 *   🌍  I'm based in Paris
 *   ✉️  You can contact me at [raphael.salaverria@epitech.eu](mailto:raphael.salaverria@epitech.eu)
