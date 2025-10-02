@@ -8,7 +8,7 @@ Currently in my 5th year of computer sciences at Epitech, Paris.
 
 *   🌍  I'm based in Paris
 *   ✉️  You can contact me at [raphael.salaverria@epitech.eu](mailto:raphael.salaverria@epitech.eu)
-*   🚀  I'm currently working on [PHAR](http://pharmusic.com)
+*   🚀  I'm currently working on my Badminton club website
 *   🧠  I'm learning NextJS and Typescript
 *   ⚡  I love Sports , especially Badminton 🏸
 * ### Skills 
