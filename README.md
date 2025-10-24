@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer,  I'm 22
 -------------
 
-Currently in my 5th year of computer sciences at Epitech, Paris.
+Epitech graduate | Full-stack developer eager to build impactful web applications
 
 *   🌍  I'm based in Paris
 *   ✉️  You can contact me at [raphael.salaverria@epitech.eu](mailto:raphael.salaverria@epitech.eu)
 *   🚀  I'm currently working on my Badminton club website
-*   🧠  I'm learning NextJS and Typescript
+*   🧠  I'm learning NextJS
 *   ⚡  I love Sports , especially Badminton 🏸
 * ### Skills 
 <p align="left">
